@@ -1,0 +1,600 @@
+ul.uldashboard
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+    
+  top: 0;
+  width: 100%;
+}
+li.lidashboard
+{
+
+    float: left;
+
+}
+li.lidashboard2
+{
+
+    float: left;
+
+}
+li.lidashboard1
+{
+
+    float: right;
+    border:2px solid brown;
+
+}
+li.lidashboard5
+{
+
+    float: right;
+
+
+}
+
+
+li.lidashboard a
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;  
+}
+li.lidashboard button
+{
+  
+  font-family: "Roboto", sans-serif;
+ 
+  outline: 0;
+  text-align: center;
+  padding: 14px 16px;
+  border: 0;
+  padding: 15px;
+  background: #333;
+color:white;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+
+
+}
+li.lidashboard1 button
+{
+  
+  font-family: "Roboto", sans-serif;
+ 
+  outline: 0;
+  text-align: center;
+  padding: 14px 16px;
+  border: 0;
+  padding: 15px;
+  background: #333;
+color:white;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+
+
+}
+li.lidashboard5 button
+{
+  
+  font-family: "Roboto", sans-serif;
+ 
+  outline: 0;
+  text-align: center;
+  padding: 14px 16px;
+  border: 0;
+  padding: 15px;
+  background: #333;
+color:white;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+
+
+}
+
+li.lidashboard2 
+{
+  
+  font-family: "Roboto", sans-serif;
+  border: 1px solid gold;
+  outline: 0;
+  text-align: center;
+  padding: 14px 16px;
+  border: 0;
+  padding: 15px;
+  background: #333;
+color:white;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+  background:green;
+
+}
+li.lidashboard2 button
+{
+  
+  font-family: "Roboto", sans-serif;
+  border: 1px solid gold;
+  outline: 0;
+  text-align: center;
+  border: 0;
+  background: #333;
+color:white;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+
+
+}
+li.lidashboard1 p
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    height:14px;
+    text-decoration: none;  
+}
+.mainheading
+{ 
+    background-color: white;
+    
+
+}
+
+ul.ulstudent 
+{
+    list-style-type: none;
+    overflow: hidden;
+    background-color:  white;
+    width: 100%;
+ display: table-row;
+
+}
+
+li.ulstudent
+{
+    float: left;
+}
+li.ulstudent h2
+{
+    display: block;
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;  
+    border-right: 1px solid #bbb;
+}
+.ulstudentmain
+{
+    display: inline;
+}
+.takeattendance
+{
+    margin-top: 100px;
+    margin-left: 550px;
+    background: darkgrey;
+    font-family: unset;
+}
+.atbutton
+{
+    font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #4CAF50;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+  margin:7px;
+}
+.atbutton1
+{
+    display: none;
+}
+.headingsheet
+{
+    border: 3px solid burlywood;
+    display: inline-block;
+    margin-left: 550px;
+}
+
+table.table-attende 
+{
+    font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+td.table-attende
+{
+    border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  background: aliceblue;
+}
+
+tr.table-attende
+{
+    border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  background: aliceblue;
+
+}
+.h1sheet
+{
+    border: 3px solid burlywood;
+    display: inline-block;
+    color: azure;
+    margin-left: 2px;
+}
+.h2sheet
+{
+    border: 3px solid burlywood;
+    display: inline-block;
+    color: azure;
+    margin-left: 200px;
+
+}
+.h3sheet
+{
+
+    border: 3px solid burlywood;
+    display: inline-block;
+    color: azure;
+    margin-left: 600px;
+}
+li.lidashboard1
+{
+float: right;
+}
+.btnhomepage1
+{
+
+    font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #4CAF50;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+  margin:10px;
+}
+.btnhomepage2
+{
+
+    font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #4CAF50;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+  margin: 10px;
+}
+.homepage1
+{
+    margin-top: 250px;
+    margin-left: auto;
+    align-items: center;
+ 
+
+}
+.registerbutton
+{
+    margin: 5px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 300px;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    background: white;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+
+    margin: 50px;
+    
+    
+  }
+  .card:hover
+  {
+    transform: scale(1.1);
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        border:1px solid black;
+  }
+  .card button
+  {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  .atbutton354
+  {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+     width:auto;
+  font-size: 18px;
+  }
+  .MYMISSING
+  {
+    border: 4px solid black;
+  }
+  .MYFOUND
+
+  {
+    border: 4px solid black;
+  }
+  .card1
+  {
+  
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    background: white;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+
+  }
+  .missinglist
+  {
+    display: -webkit-inline-box;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 2000px;
+  }
+  .missinglisth2
+  {
+    color: black;
+    background: bisque;
+    align-items: center;
+    text-align: center;
+    font-family: cursive;
+    display: inline-flex;
+    margin: revert;
+}
+.dialog
+{
+  display: block;
+    margin-top: 250px;
+    margin-left: 600px;
+}
+.margin-class
+{
+  margin-top:50px;
+}
+.mycomplain-found
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow:auto;
+}
+.card3
+{
+  background-image: url("https://www.wallcavityclaims.co.uk/wp-content/uploads/2014/10/close-up-land-asphalt-sun-rays-bokeh-blur-background-wallpaper-widescreen-full-screen-widescreen-hd-wallpapers-background-wallpaper.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+ 
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+.card3-card
+{
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 1000px;
+    height: 1200px;
+    background-color: rgb(0, 0, 0, 0.8);
+    border-radius: 20px;
+    color: #fff;
+ margin-top:50px;
+ padding: 20px;
+}
+.card3-card h3
+{
+  
+  text-transform: uppercase;
+
+  color:white;
+  background-color: transparent;
+
+}
+.detective
+{
+  text-align: center;
+  margin-top: 100px;
+    height:100vh;
+    border: 1px solid white;
+}
+.detectivepro
+{
+  display: -webkit-inline-box;
+  overflow: auto;
+  align-items: center;
+}
+.picc
+{
+  display: block;
+  align-items: center;
+  margin:50px;
+}
+.margin-class input
+{
+  margin-top:30px;
+   
+  height:40px;
+  float: right;
+  font-size:20px;
+  padding-left:15px;
+}
+.margin-class input :hover
+{
+  background-color:grey;
+  border: 1px solid green;
+}
+.searchbar :hover
+{
+  border: 1px solid green;
+}
+
+.margin-class h2 
+{
+  width: 200px;
+    background: aliceblue;
+}
+.homedisplay
+{
+  display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card23 {
+
+  max-width: 300px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  background: white;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+
+  margin: 50px;
+  display: grid;
+  border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) 0 6px 6px rgba(0, 0, 0, 0.1);
+  
+  
+}
+.card23:hover
+{
+  transform: scale(1.1);
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+      border:1px solid black;
+}
+.card23 button
+{
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+.faq
+{
+  padding:40px 100px;
+}
+.searchbar
+{
+  display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    float: right;
+    border: 3px solid white;
+border-radius: 10px;
+    padding: 10px;
+    background: black;
+    opacity: 0.9;
+    color: white;
+   justify-content:center;
+   
+}
+
+.card34 {
+
+  max-width: 300px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  background: white;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+
+  margin: 50px;
+ 
+  border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) 0 6px 6px rgba(0, 0, 0, 0.1);
+  
+  
+}
+.card34:hover
+{
+  transform: scale(1.1);
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+      border:1px solid black;
+}
+.card34 button
+{
+  border: none;
+  outline: 0;
+
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+  margin:5px;
+}
+.partice-js
+{
+  height:300px;
+  width:100%;
+  padding:20px;
+}
