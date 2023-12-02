@@ -3,8 +3,8 @@
 <p align="center">
   <img height="400px"src="public/images/home.png" />
 </p>
-<h2>Frontend-repo(https://github.com/codelover4655/eng_frontend)</h2>
-<h2>Backend-repo(https://github.com/codelover4655/eng_backend)</h2>
+<h2>Frontend-repo(https://github.com/harshpandey19/eng_frontend)</h2>
+<h2>Backend-repo(https://github.com/harshpandey19/eng_backend)</h2>
 <hr />
 
 Find Missing People is a web application that helps simplify the issue of locating missing people, You can file complaints for missing people or if you found someone in stray conditions or if someone got lost from their loved ones. The application uses face recognization to match profiles for the Missing people and Found people and notifies both users whenever there is a match. Example - User A lodged a complaint about a missing person, and another User B founds a person and files a request,
@@ -89,7 +89,7 @@ two buttons for every profie first is "CHECK STATUS" button where you can see wh
    and frontend-server(https://github.com/codelover4655/eng_frontend)
  *                                         STEPS TO SETUP FRONTEND SERVER
 Pre-Requisites: You must have Nodejs installed locally on your system
-* Clone the Repository `git clone https://github.com/codelover4655/eng_frontend.git` or directly download the zip file.
+* Clone the Repository `git clone https://github.com/harshpandey19/eng_frontend.git` or directly download the zip file.
 * Move to the directry where this cloned file exist(if cloned in C folder directly so run commed in cmd `cd eng_frontend`)
 * Install the Dependencies `npm install`
 * Starting the App `npm start` or `node server.js`
@@ -98,7 +98,7 @@ Pre-Requisites: You must have Nodejs installed locally on your system
 
                                                 STEPS TO SETUP BACKEND SERVER
   
-* Clone the Repository `https://github.com/codelover4655/eng_backend.git` or directly download the zip file.
+* Clone the Repository `https://github.com/harshpandey19/eng_backend.git` or directly download the zip file.
 * install python on your pc if not present previously                                            
 * Install virtual enviourment for python as there may be some dependencies which OS not give access to install on system directly
 * Process to install and create virtual envirment varies for diffrent operterating systems (supporting docs-https://docs.python.org/3/library/venv.html)      
