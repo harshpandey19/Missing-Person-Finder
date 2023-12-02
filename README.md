@@ -119,7 +119,7 @@ using Async Task sechdulding like When User Files a missing complian i Run a Asy
 send a Email notification when Found a match by this user may not have to wait for conformation but searching whole database is a time consuming task 
 so This is a site of imporvement in my project.
 
-😃 Suggestions and Contibutions are Welcomed! Feel free to Reach out to me! **[Tushar Singhal](https://github.com/codelover4655)**
+😃 Suggestions and Contibutions are Welcomed! Feel free to Reach out to me! **[Harsh Pandey](https://github.com/harshpandey19)**
 
 > ## Screenshots 
 * Home Page 
